@@ -1,0 +1,1 @@
+function demo(){}demo.test=function(argument){return argument+1};function a(){let b=demo.test();b(12)}
